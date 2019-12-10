@@ -2,12 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Towards Capturing Sonographic Experience: Cognition-Inspired Ultrasound Video Saliency Prediction"
-authors: [admin, yifan, harshita, pierre, aris, alison]
+# authors: [admin, yifan, harshita, pierre, aris, alison]
+authors: ["**Richard Droste**", "Yifan Cai", "Harshita Sharma", "Pierre Chatelain", "Aris Papageorghiou", "J Alison Noble"]
 date: 2019-07-25
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-12-10T04:24:51Z
+publishDate: 2019-07-25
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -35,11 +36,11 @@ four out of five saliency metrics. We present a qualitative analysis on
 representative examples to explain the model’s superior performance."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "23rd Conference on Medical Image Understanding and Analysis. Oral presentation. **Best paper award**."
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -49,12 +50,22 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 links:
-- name: BibTeX
-  url: https:///www.rdroste.com/publication/miua2019/#bibtex
+- name: PDF
+  url: files/MIUA-2019_droste-et-al.pdf
+  icon_pack: fas
+  icon: file-pdf
+- name: Slides
+  icon_pack: fas
+  icon: file-powerpoint
+  url: https://drive.google.com/file/d/1Fwdz_oJunSDszcUxBwDkznQsxThJ1dFY/view?usp=sharing
 - name: ORA
   url: https://ora.ox.ac.uk/objects/uuid:a14df633-3dc5-4918-ba90-09dda3f51363
   icon_pack: ai
   icon: open-access
+- name: BibTeX
+  icon_pack: fas
+  icon: quote-right
+  url: publication/miua2019/#bibtex
 
 url_pdf:
 url_code:
@@ -71,14 +82,14 @@ url_video:
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [ipmi2019]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -90,36 +101,15 @@ slides: ""
 
 
 
-<!-- 
-Richard Droste<sup>1</sup>, Yifan Cai<sup>1</sup>, Harshita Sharma<sup>1</sup>, Pierre Chatelain<sup>1</sup>, Lior Drukker<sup>2</sup>, Aris T. Papageorghiou<sup>2</sup>, J. Alison Noble<sup>1</sup>
-
-<sup>1</sup> Department of Engineering Science, University of Oxford, UK  
-<sup>2</sup> Nuffield Department of Women's & Reproductive Health, University of Oxford, UK
-
-
-Accepted at the *26th biennial international conference on Information Processing in Medical Imaging* (IPMI 2019), The Hong Kong University of Science and Technology (HKUST) 
-
-To appear in *Information Processing in Medical Imaging. IPMI 2019. Lecture Notes in Computer Science. Springer*
-
-**Full text:** [arXiv](https://arxiv.org/abs/1903.02974) - [BibTex](#bibtex) - [ORA](https://ora.ox.ac.uk/objects/uuid:a27fe42b-3a94-4b0f-bc7d-2173c0348b6f) - [Springer](https://link.springer.com/chapter/10.1007/978-3-030-20351-1_46)
- -->
-
-
-# Paper Summary
-
-Coming soon.
-
----
-
 # BibTex
-<!-- Richard Droste*, Yifan Cai, Harshita Sharma, Pierre Chatelain, Lior Drukker, Aris T. Papageorghiou, J. Alison Noble -->
 
 ```
 @InProceedings{
-	author={Droste, Richard and Cai, Yifan and Sharma, Harshita and Chatelain, Pierre and Drukker, Lior and Papageorghiou, Aris T. and Noble, J. Alison},
-	title={Ultrasound Image Representation Learning by Modeling Sonographer Visual Attention},
-	booktitle={Information Processing in Medical Imaging},
-	year={2019},
-	publisher={Springer}
+  author={Droste, Richard and Cai, Yifan and Sharma, Harshita and Chatelain, Pierre and Papageorghiou, Aris T. and Noble, J. Alison},
+  title={Towards Capturing Sonographic Experience: Cognition-Inspired Ultrasound Video Saliency Prediction},
+  booktitle={Medical Image Understanding and Analysis (MIUA)},
+  series={CCIS},
+  year={2019},
+  publisher={Springer}
 }
 ```

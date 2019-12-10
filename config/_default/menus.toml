@@ -13,10 +13,10 @@
   url = "#publications"
   weight = 30
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 50
+# [[main]]
+#   name = "Projects"
+#   url = "#projects"
+#   weight = 50
 
 
 # Link to a PDF of your resume/CV from the menu.
@@ -25,3 +25,9 @@
    name = "CV"
   url = "files/cv.pdf"
   weight = 70
+
+
+[[main]]
+  name = "Publication index"
+  url = "publication"
+  weight = 100

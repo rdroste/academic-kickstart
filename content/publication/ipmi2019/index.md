@@ -2,12 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Ultrasound Image Representation Learning by Modeling Sonographer Visual Attention"
-authors: [admin, yifan, harshita, pierre, lior, aris, alison]
+# authors: [admin, yifan, harshita, pierre, lior, aris, alison]
+authors: ["**Richard Droste**", "Yifan Cai", "Harshita Sharma", "Pierre Chatelain", "Lior Drukker", "Aris Papageorghiou", "J Alison Noble"]
 date: 2019-03-07
-doi: "https://doi.org/10.1007/978-3-030-20351-1_46"
+doi:
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-12-10T04:24:51Z
+publishDate: 2019-03-07
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +17,7 @@ publishDate: 2019-12-10T04:24:51Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Information Processing in Medical Imaging 2019"
+publication: "Information Processing in Medical Imaging (IPMI) 2019"
 publication_short: "IPMI 2019"
 
 abstract: "Image representations are commonly learned from class labels, which are a simplistic approximation of human image understanding.
@@ -32,11 +33,11 @@ We find that the attention models derive strong representations, approaching the
 baseline model for all but the last layer."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "26th International conference on Information Processing in Medical Imaging (IPMI) 2019"
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -46,12 +47,22 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 links:
+- name: PDF
+  url: https://arxiv.org/pdf/1903.02974.pdf
+  icon_pack: fas
+  icon: file-pdf
+- name: Poster
+  url: files/181_droste-et-al_ultrasound-visual-attention-modelling_v2-7.pdf
+  icon_pack: fas
+  icon: scroll
+- name: DOI
+  url: https://doi.org/10.1007/978-3-030-20351-1_46
+  icon_pack: ai
+  icon: doi
 - name: arXiv
   url: https://arxiv.org/abs/1903.02974
   icon_pack: ai
   icon: arxiv
-- name: BibTeX
-  url: https:///www.rdroste.com/publication/ipmi2019/#bibtex
 - name: ORA
   url: https://ora.ox.ac.uk/objects/uuid:a27fe42b-3a94-4b0f-bc7d-2173c0348b6f
   icon_pack: ai
@@ -60,6 +71,10 @@ links:
   url: https://link.springer.com/chapter/10.1007/978-3-030-20351-1_46
   icon_pack: ai
   icon: springer
+- name: BibTeX
+  icon_pack: fas
+  icon: quote-right
+  url: publication/ipmi2019/#bibtex
 
 url_pdf:
 url_code:
@@ -91,6 +106,12 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
 ---
 
 
@@ -236,11 +257,13 @@ Compared to the fully-supervised model (SonoNet), a significant overlap remains 
 
 ```
 @InProceedings{
-	author={Droste, Richard and Cai, Yifan and Sharma, Harshita and Chatelain, Pierre and Drukker, Lior and Papageorghiou, Aris T. and Noble, J. Alison},
-	title={Ultrasound Image Representation Learning by Modeling Sonographer Visual Attention},
-	booktitle={Information Processing in Medical Imaging},
-	year={2019},
-	publisher={Springer}
+  author={Droste, Richard and Cai, Yifan and Sharma, Harshita and Chatelain, Pierre and Drukker, Lior and Papageorghiou, Aris T. and Noble, J. Alison},
+  title={Ultrasound Image Representation Learning by Modeling Sonographer Visual Attention},
+  booktitle={Information Processing in Medical Imaging (IPMI)},
+  volume=11492,
+  series={LNCS},
+  year={2019},
+  publisher={Springer}
 }
 ```
 

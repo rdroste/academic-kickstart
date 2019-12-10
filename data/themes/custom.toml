@@ -14,8 +14,8 @@ menu_text_active = "#17202a"
 menu_title = "#fff"
 
 # Home sections
-background = "#eaecee"
-home_section_odd = " #eaecee"
-home_section_even = "#d5d8dc"
+background = "#fff"
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
 
 font = "custom"
