@@ -8,6 +8,8 @@ tags: []
 categories: []
 date: 2019-12-10T20:22:40Z
 
+draft: true
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
