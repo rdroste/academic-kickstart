@@ -1,0 +1,21 @@
+# Theme metadata
+name = "Custom"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#566573"
+
+# Menu
+menu_primary = "#566573"
+menu_text = "#fff"
+menu_text_active = "#17202a"
+menu_title = "#fff"
+
+# Home sections
+background = "#eaecee"
+home_section_odd = " #eaecee"
+home_section_even = "#d5d8dc"
+
+font = "custom"
