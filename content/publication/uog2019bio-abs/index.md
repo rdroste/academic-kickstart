@@ -5,7 +5,7 @@ title: "Bioeffects safety indices of ultrasound: quantifying adherence to recomm
 authors: ["Lior Drukker*", "**Richard Droste***", "Pierre Chatelain", "J Alison Noble", "Aris Papageorghiou"]
 date: 2019-09-30
 doi: ""
-draft: true
+draft: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-09-30
