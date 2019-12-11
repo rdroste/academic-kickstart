@@ -36,7 +36,7 @@ four out of five saliency metrics. We present a qualitative analysis on
 representative examples to explain the model’s superior performance."
 
 # Summary. An optional shortened abstract.
-summary: "23rd Conference on Medical Image Understanding and Analysis. Oral presentation. **Best paper award**."
+summary: "23rd Conference on Medical Image Understanding and Analysis (MIUA) 2019. Oral presentation. **Best paper award**."
 
 tags: []
 categories: []
