@@ -23,10 +23,13 @@ bio: PhD Student in Medical Imaging at the University of Oxford
 interests:
 - Machine Learning & Deep Learning
 - Computer Vision
-- Ultrasound Imaging
+- Medical Imaging (Ultrasund & MRI)
 
 education:
   courses:
+  - course: "Currently: PhD in Engineering Science"
+    institution: University of Oxford
+    year: (graduating 2021)
   - course: MSC in Mechanical Engineering
     institution: ETH Zurich
     year: 2017
