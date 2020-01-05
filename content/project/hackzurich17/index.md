@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Final year Bachelor project: Parabolic Flight Experiment"
+title: "HackZurich Hackathon 2017"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-01-05T00:00:50
+date: 2020-01-05T00:00:30
 
 draft: false
 
@@ -43,7 +43,8 @@ slides: ""
 ---
 
 
-Coming soon!
+https://devpost.com/software/jred
 
-{{< youtube LSHt92ygDpA >}}
+
+{{< youtube TA-mLhP9LnM >}}
 

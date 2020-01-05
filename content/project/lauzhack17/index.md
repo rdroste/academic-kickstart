@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Final year Bachelor project: Parabolic Flight Experiment"
+title: "LauzHack Hackathon 2017"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-01-05T00:00:50
+date: 2020-01-05T00:00:15
 
 draft: false
 
@@ -43,7 +43,4 @@ slides: ""
 ---
 
 
-Coming soon!
-
-{{< youtube LSHt92ygDpA >}}
-
+https://devpost.com/software/intelligent-rescue

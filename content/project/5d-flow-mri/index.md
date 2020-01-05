@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Final year Bachelor project: Parabolic Flight Experiment"
+title: "Master Thesis: 5d Flow Mri"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-01-05T00:00:50
+date: 2020-01-05T00:00:40
 
 draft: false
 
@@ -44,6 +44,3 @@ slides: ""
 
 
 Coming soon!
-
-{{< youtube LSHt92ygDpA >}}
-

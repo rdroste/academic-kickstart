@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Final year Bachelor project: Parabolic Flight Experiment"
+title: "LauzHack Hackathon 2016"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-01-05T00:00:50
+date: 2020-01-05T00:00:10
 
 draft: false
 
@@ -43,7 +43,7 @@ slides: ""
 ---
 
 
-Coming soon!
+https://devpost.com/software/order-of-magnitude-cwjdx5
 
-{{< youtube LSHt92ygDpA >}}
 
+{{< youtube Uiztak_799o >}}
