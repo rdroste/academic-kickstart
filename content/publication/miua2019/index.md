@@ -58,6 +58,10 @@ links:
   icon_pack: fas
   icon: file-powerpoint
   url: https://drive.google.com/file/d/1Fwdz_oJunSDszcUxBwDkznQsxThJ1dFY/view?usp=sharing
+- name: DOI
+  url: https://doi.org/10.1007/978-3-030-39343-4
+  icon_pack: ai
+  icon: doi
 - name: ORA
   url: https://ora.ox.ac.uk/objects/uuid:a14df633-3dc5-4918-ba90-09dda3f51363
   icon_pack: ai
