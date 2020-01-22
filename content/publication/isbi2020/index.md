@@ -37,11 +37,11 @@ featured: true
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
-# links:
-# - name: PDF
-#   url: https://arxiv.org/pdf/1903.02974.pdf
-#   icon_pack: fas
-#   icon: file-pdf
+links:
+- name: PDF
+  url: files/droste-et-al_visually-salient-landmarks_ISBI-2020.pdf
+  icon_pack: fas
+  icon: file-pdf
 # - name: Poster
 #   url: files/181_droste-et-al_ultrasound-visual-attention-modelling_v2-7.pdf
 #   icon_pack: fas
@@ -62,10 +62,10 @@ featured: true
 #   url: https://link.springer.com/chapter/10.1007/978-3-030-20351-1_46
 #   icon_pack: ai
 #   icon: springer
-# - name: BibTeX
-#   icon_pack: fas
-#   icon: quote-right
-#   url: publication/ipmi2019/#bibtex
+- name: BibTeX
+  icon_pack: fas
+  icon: quote-right
+  url: publication/isbi2020/#bibtex
 
 url_pdf:
 url_code:
@@ -105,33 +105,25 @@ header:
   image: ""
 ---
 
-PDF and paper summary coming soon!
+Paper summary coming soon!
 
 ---
 
 <!-- Richard Droste*, Yifan Cai, Harshita Sharma, Pierre Chatelain, Lior Drukker, Aris T. Papageorghiou, J. Alison Noble -->
 
-<!-- # BibTex
 
 ```
 @InProceedings{
-  author={Droste, Richard and Cai, Yifan and Sharma, Harshita and Chatelain, Pierre and Drukker, Lior and Papageorghiou, Aris T. and Noble, J. Alison},
-  title={Ultrasound Image Representation Learning by Modeling Sonographer Visual Attention},
-  booktitle={Information Processing in Medical Imaging (IPMI)},
-  volume=11492,
-  series={LNCS},
-  year={2019},
-  publisher={Springer}
+  author={Droste, Richard and Chatelain, Pierre and Drukker, Lior and Sharma, Harshita and Papageorghiou, Aris T. and Noble, J. Alison},
+  title={Discovering Salient Anatomical Landmarks by Predicting Human Gaze},
+  booktitle={IEEE International Symposium on Biomedical Imaging (ISBI)},
+  year={2020}
 }
 ```
 
 
---- -->
+---
 
 # Acknowledgments
 
-This work is supported by the ERC ([ERC-ADG-2015 694581, project PULSE](https://cordis.europa.eu/project/rcn/205894/factsheet/en)) and the EPSRC (EP/GO36861/1 and EP/MO13774/1).
-AP is funded by the NIHR Oxford Biomedical Research Centre.
-
-
-
+We acknowledge the ERC ([ERC-ADG-2015 694581, project PULSE](https://cordis.europa.eu/project/rcn/205894/factsheet/en)), the EPSRC (EP/M013774/1), and the NIHR Oxford Biomedical Research Centre.
