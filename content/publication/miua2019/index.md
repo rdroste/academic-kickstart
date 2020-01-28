@@ -59,7 +59,7 @@ links:
   icon: file-powerpoint
   url: https://drive.google.com/file/d/1Fwdz_oJunSDszcUxBwDkznQsxThJ1dFY/view?usp=sharing
 - name: DOI
-  url: https://doi.org/10.1007/978-3-030-39343-4
+  url: https://doi.org/10.1007/978-3-030-39343-4_15
   icon_pack: ai
   icon: doi
 - name: ORA
