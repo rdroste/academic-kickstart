@@ -50,10 +50,10 @@ links:
 #   url: https://doi.org/10.1007/978-3-030-20351-1_46
 #   icon_pack: ai
 #   icon: doi
-# - name: arXiv
-#   url: https://arxiv.org/abs/1903.02974
-#   icon_pack: ai
-#   icon: arxiv
+- name: arXiv
+  url: https://arxiv.org/abs/2001.08188
+  icon_pack: ai
+  icon: arxiv
 # - name: ORA
 #   url: https://ora.ox.ac.uk/objects/uuid:a27fe42b-3a94-4b0f-bc7d-2173c0348b6f
 #   icon_pack: ai
