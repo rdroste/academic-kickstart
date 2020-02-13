@@ -3,7 +3,7 @@
 
 title: "Self-supervised Representation Learning for Ultrasound Video"
 # authors: [admin, yifan, harshita, pierre, lior, aris, alison]
-authors: ["Jianbo Jiao", "**Richard Droste**", "Lior Drukker", "Aris Papageorghiou", "J Alison Noble"]
+authors: ["[Jianbo Jiao](https://jianbojiao.com/)", "**Richard Droste**", "Lior Drukker", "Aris Papageorghiou", "J Alison Noble"]
 date: 2020-01-06
 doi:
 draft: false
