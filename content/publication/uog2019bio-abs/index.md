@@ -34,7 +34,7 @@ We analysed 637 routine obstetric ultrasound scans performed by 19 operators, of
 In this study, eye tracking showed that operators rarely assessed safety indices during scanning; however, in routine ultrasound settings, the recommended bioeffect indices were adhered to."
 
 # Summary. An optional shortened abstract.
-summary: "ISUOG World Congress 2019. Oral presentation. *LD and RD contributed equally to this work."
+summary: "ISUOG World Congress 2019.  <span style=\"color: #c28422; font-weight:bold\">Oral presentation</span>. *LD and RD contributed equally to this work."
 
 tags: []
 categories: []
@@ -87,7 +87,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [ipmi2019]
+# projects: [ipmi2019]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -105,14 +105,18 @@ slides: ""
 # BibTex
 
 ```
-@article{doi:10.1002/uog.21929,
-  author = {Drukker, Lior and Droste, Richard and Chatelain, Pierre and Noble, J. Alison and Papageorghiou, Aris T.},
-  title = {Routine third-trimester growth scans: how common is expected value bias?},
+@article{doi:10.1002/uog.20484,
+  author = {Drukker, L. and Droste, R. and Chatelain, P. and Noble, J.A. and Papageorghiou, A.T.},
+  title = {OC10.02: Bioeffects safety indices of ultrasound: quantifying adherence to recommendations on routine obstetric scan},
   journal = {Ultrasound in Obstetrics \& Gynecology},
-  volume = {in press},
-  doi = {10.1002/uog.21929},
-  url = {https://obgyn.onlinelibrary.wiley.com/doi/abs/10.1002/uog.21929},
-  eprint = {https://obgyn.onlinelibrary.wiley.com/doi/pdf/10.1002/uog.21929}
+  volume = {54},
+  number = {S1},
+  pages = {24-24},
+  doi = {10.1002/uog.20484},
+  url = {https://obgyn.onlinelibrary.wiley.com/doi/abs/10.1002/uog.20484},
+  eprint = {https://obgyn.onlinelibrary.wiley.com/doi/pdf/10.1002/uog.20484},
+  year = {2019}
 }
+
 
 ```

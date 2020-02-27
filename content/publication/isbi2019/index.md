@@ -30,7 +30,7 @@ on unlabelled full-length video scans show high correlation
 (ρ=0.95, p=0.0004) with workflow statistics of manually labelled videos, suggesting practicality of proposed methods."
 
 # Summary. An optional shortened abstract.
-summary: "IEEE International Symposium on Biomedical Imaging (ISBI) 2019. Oral presentation."
+summary: "IEEE International Symposium on Biomedical Imaging (ISBI) 2019.  <span style=\"color: #c28422; font-weight:bold\">Oral presentation</span>."
 
 tags: []
 categories: []

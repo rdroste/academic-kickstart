@@ -36,7 +36,7 @@ four out of five saliency metrics. We present a qualitative analysis on
 representative examples to explain the model’s superior performance."
 
 # Summary. An optional shortened abstract.
-summary: "23rd Conference on Medical Image Understanding and Analysis (MIUA) 2019. **Oral presentation**. **Best paper award**."
+summary: "23rd Conference on Medical Image Understanding and Analysis (MIUA) 2019. <span style=\"color: #c28422; font-weight:bold\">Oral presentation</span>. <span style=\"color: #2a8a80; font-weight:bold\">Best paper award</span>."
 
 tags: []
 categories: []
@@ -98,7 +98,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [ipmi2019]
+# projects: [ipmi2019]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
