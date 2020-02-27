@@ -176,7 +176,7 @@ To the best of our knowledge, this work is the first attempt to study human visu
 ### <a name="representation_learning"></a> Representation Learning by Modeling Visual Attention
 
 <a name="fig1a"></a>
-{{< figure src="figure1_3_a.svg" title="Fig. 1 a): Illustration of our framework for learning and evaluating visual attention models (VAMs)">}}
+{{< figure src="./figure1_3_a.svg" title="Fig. 1 a): Illustration of our framework for learning and evaluating visual attention models (VAMs)">}}
 
 
 [Fig. 1 a)](#fig1a) illustrates our framework for training and evaluating the visual attention models (VAMs).
@@ -213,7 +213,7 @@ The literature SonoNet scores are given in parenthesis.
 ### <a name="fixed_feature"></a> Fixed Feature Extractor
 
 <a name="fig3a"></a>
-{{< figure src="softmax_results_plot10_bg.svg" title="Fig. 3 a): Results of the regression analysis of the fixed-weight attention models, and baselines.">}}
+{{< figure src="./softmax_results_plot10_bg.svg" title="Fig. 3 a): Results of the regression analysis of the fixed-weight attention models, and baselines.">}}
 
 The results of the regression analysis in [Fig. 3 a)](#fig3a) show that, even without fine-tuning, the high-level features of the attention models are predictive for fetal anomaly standard plane detection.
 This supports our hypothesis, motivated by [Wu et al. (2017)](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00054/full), that gaze is a strong prior for semantic information.
@@ -221,7 +221,7 @@ At the last layer, the attention models fall behind SonoNet, indicating the task
 Rand. Feat. denotes a model with random weights.
 
 <a name="fig3b"></a>
-{{< figure src="tsne6.svg" title="Fig. 3 b): [t-SNE](https://lvdmaaten.github.io/tsne/) visualization of the feature embeddings at the respective layers with the highest F1-score (Background class omitted for legibility).">}}
+{{< figure src="./tsne6.svg" title="Fig. 3 b): [t-SNE](https://lvdmaaten.github.io/tsne/) visualization of the feature embeddings at the respective layers with the highest F1-score (Background class omitted for legibility).">}}
 
 The t-SNE plots in [Fig. 3 b)](#fig3b) confirm that some standard plane classes are separated in the respective feature spaces of the visual attention models (VAMs).
 Compared to the fully-supervised model (SonoNet), a significant overlap remains for the standard planes with similar appearance such as the brain views and the cardiac views (4CH, 3VT, LVOT, RVOT), respectively.
@@ -232,21 +232,21 @@ Compared to the fully-supervised model (SonoNet), a significant overlap remains 
 # More Results
 
 <a name="fig1b"></a>
-{{< figure src="figure1_3_b.svg" title="Fig. 1 b): An illustration that a dilated convolution results in the same receptive field than downsampling + non-dilated convolution. We apply this fact to train a dilated network for saliency prediction (higher-resolution output) which is then used as a classifier by introducing downsampling and removing the dilations (faster, lower memory requirements).">}}
+{{< figure src="./figure1_3_b.svg" title="Fig. 1 b): An illustration that a dilated convolution results in the same receptive field than downsampling + non-dilated convolution. We apply this fact to train a dilated network for saliency prediction (higher-resolution output) which is then used as a classifier by introducing downsampling and removing the dilations (faster, lower memory requirements).">}}
 
 
 <a name="fig2"></a>
-{{< figure src="sal_gaze_examples3.svg" title="Fig. 2: Visual saliency and gaze point predictions with corresponding ground truths for representative validation set frames.">}}
+{{< figure src="./sal_gaze_examples3.svg" title="Fig. 2: Visual saliency and gaze point predictions with corresponding ground truths for representative validation set frames.">}}
 
 <!-- Some results of the saliency prediction model (Saliency-VAM) and the gaze-point regressor (Gaze-VAM). -->
 
 
 <a name="appendixa"></a>
-{{< figure src="confusion_matrix6.svg" title="Appendix A: Confusion matrices of *a)* the fine-tuned saliency model (Saliency-FT) and *b)* the baseline SonoNet model. The Saliency-FT model is pre-trained on random video frames for salieny prediction (no manual annotations) and the SonoNet model is pre-trained with over 22k labeled standard plane images. Then, both models are fine-tuned with 753 standard images.">}}
+{{< figure src="./confusion_matrix6.svg" title="Appendix A: Confusion matrices of *a)* the fine-tuned saliency model (Saliency-FT) and *b)* the baseline SonoNet model. The Saliency-FT model is pre-trained on random video frames for salieny prediction (no manual annotations) and the SonoNet model is pre-trained with over 22k labeled standard plane images. Then, both models are fine-tuned with 753 standard images.">}}
 
 
 <a name="appendixb"></a>
-{{< figure src="query2.svg" title="Appendix B: Nearest neighbors in the respective feature spaces. The first column shows various query images and the subsequent columns show the two nearest l2 neighbours in the (average-pooled) feature spaces of the last layer of each model.">}}
+{{< figure src="./query2.svg" title="Appendix B: Nearest neighbors in the respective feature spaces. The first column shows various query images and the subsequent columns show the two nearest l2 neighbours in the (average-pooled) feature spaces of the last layer of each model.">}}
 
 
 
