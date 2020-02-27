@@ -13,7 +13,7 @@ baseurl = "https://rdroste.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; 2020 Richard Droste. All RIghts reserved"
+copyright = "&copy; 2020 Richard Droste. All Rights reserved."
 
 ############################
 ## Advanced options below ##
