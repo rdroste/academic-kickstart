@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Bioeffects safety indices of ultrasound: quantifying adherence to recommendations on routine obstetric scan (Paper forthcoming in the European Journal of Ultrasound)"
+title: "OC10.02: Bioeffects safety indices of ultrasound: quantifying adherence to recommendations on routine obstetric scan"
 authors: ["Lior Drukker*", "**Richard Droste***", "Pierre Chatelain", "J Alison Noble", "Aris Papageorghiou"]
 date: 2019-09-30
 doi: ""

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A novel eye tracking study: how common is expected value bias in fetal growth scan assessment?"
+title: "OC19.02: A novel eye tracking study: how common is expected value bias in fetal growth scan assessment?"
 authors: ["Lior Drukker*", "**Richard Droste***", "Pierre Chatelain", "J Alison Noble", "Aris Papageorghiou"]
 date: 2019-09-30
 doi: ""
