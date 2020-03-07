@@ -107,11 +107,11 @@ header:
 
 Paper summary coming soon!
 
----
 
 <!-- Richard Droste*, Yifan Cai, Harshita Sharma, Pierre Chatelain, Lior Drukker, Aris T. Papageorghiou, J. Alison Noble -->
 
-
+---
+# BibTex
 ```
 @InProceedings{
   author={Droste, Richard and Chatelain, Pierre and Drukker, Lior and Sharma, Harshita and Papageorghiou, Aris T. and Noble, J. Alison},
@@ -120,8 +120,6 @@ Paper summary coming soon!
   year={2020}
 }
 ```
-
-
 ---
 
 # Acknowledgments

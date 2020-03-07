@@ -103,6 +103,7 @@ slides: ""
 
 *L. Drukker and R. Droste contributed equally to this work.
 
+---
 # BibTex
 
 ```
@@ -116,6 +117,4 @@ slides: ""
   eprint = {https://eref.thieme.de/ejournals/1438-8782_efirst#/10.1055-a-1074-0722},
   year = {2020}
 }
-
-
 ```

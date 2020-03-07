@@ -100,6 +100,8 @@ slides: ""
 
 *L. Drukker and R. Droste contributed equally to this work.
 
+
+---
 # BibTex
 
 ```
@@ -112,5 +114,4 @@ slides: ""
   url = {https://obgyn.onlinelibrary.wiley.com/doi/abs/10.1002/uog.21929},
   eprint = {https://obgyn.onlinelibrary.wiley.com/doi/pdf/10.1002/uog.21929}
 }
-
 ```

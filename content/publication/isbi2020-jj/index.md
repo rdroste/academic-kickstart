@@ -37,11 +37,11 @@ featured: true
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
-# links:
-# - name: PDF
-#   url: https://arxiv.org/pdf/1903.02974.pdf
-#   icon_pack: fas
-#   icon: file-pdf
+links:
+- name: PDF
+  url: https://arxiv.org/pdf/2003.00105.pdf
+  icon_pack: fas
+  icon: file-pdf
 # - name: Poster
 #   url: files/181_droste-et-al_ultrasound-visual-attention-modelling_v2-7.pdf
 #   icon_pack: fas
@@ -50,14 +50,14 @@ featured: true
 #   url: https://doi.org/10.1007/978-3-030-20351-1_46
 #   icon_pack: ai
 #   icon: doi
-# - name: arXiv
-#   url: https://arxiv.org/abs/1903.02974
-#   icon_pack: ai
-#   icon: arxiv
-# - name: ORA
-#   url: https://ora.ox.ac.uk/objects/uuid:a27fe42b-3a94-4b0f-bc7d-2173c0348b6f
-#   icon_pack: ai
-#   icon: open-access
+- name: arXiv
+  url: https://arxiv.org/abs/2003.00105
+  icon_pack: ai
+  icon: arxiv
+- name: ORA
+  url: https://ora.ox.ac.uk/objects/uuid:43ab9a6c-d47b-44c3-b409-84af93dffa92
+  icon_pack: ai
+  icon: open-access
 # - name: Springer
 #   url: https://link.springer.com/chapter/10.1007/978-3-030-20351-1_46
 #   icon_pack: ai
@@ -108,30 +108,19 @@ header:
 PDF and aper summary coming soon!
 
 ---
-
-<!-- Richard Droste*, Yifan Cai, Harshita Sharma, Pierre Chatelain, Lior Drukker, Aris T. Papageorghiou, J. Alison Noble -->
-
-<!-- # BibTex
+# BibTex
 
 ```
-@InProceedings{
-  author={Droste, Richard and Cai, Yifan and Sharma, Harshita and Chatelain, Pierre and Drukker, Lior and Papageorghiou, Aris T. and Noble, J. Alison},
-  title={Ultrasound Image Representation Learning by Modeling Sonographer Visual Attention},
-  booktitle={Information Processing in Medical Imaging (IPMI)},
-  volume=11492,
-  series={LNCS},
-  year={2019},
-  publisher={Springer}
+@InProceedings{ISBI20_SSRL,
+  author = {Jianbo Jiao, Richard Droste, Lior Drukker, Aris Papageorghiou, Alison Noble},
+  title = {Self-supervised Representation Learning for Ultrasound Video},
+  booktitle = {IEEE International Symposium on Biomedical Imaging},
+  year = {2020}
 }
 ```
-
-
---- -->
+---
 
 # Acknowledgments
 
 This work is supported by the ERC ([ERC-ADG-2015 694581, project PULSE](https://cordis.europa.eu/project/rcn/205894/factsheet/en)) and the EPSRC (EP/GO36861/1 and EP/MO13774/1).
 AP is funded by the NIHR Oxford Biomedical Research Centre.
-
-
-
