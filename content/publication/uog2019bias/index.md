@@ -1,7 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Routine Third‐trimester Growth Scans: How Common is Expected Value Bias?"
+# title: "Routine Third‐trimester Growth Scans: How Common is Expected Value Bias?"
+title: "Expected‐value bias in routine third‐trimester growth scans"
 # authors: [lior, admin, pierre, aris, alison]
 authors: ["Lior Drukker*", "**Richard Droste***", "Pierre Chatelain", "J Alison Noble", "Aris Papageorghiou"]
 # author_list: "Lior Drukker*, **Richard Droste***, Pierre Chatelain, J Alison Noble, Aris Papageorghiou"
