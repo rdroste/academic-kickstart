@@ -3,7 +3,7 @@
 
 title: "Unified Image and Video Saliency Modeling"
 # authors: [admin, yifan, harshita, pierre, lior, aris, alison]
-authors: ["**Richard Droste***", "Jianbo Jiao*", "J Alison Noble"]
+authors: ["**Richard Droste***", " <a href=\"https://jianbojiao.com/\"><u>Jianbo Jiao</u></a>", "J Alison Noble"]
 date: 2020-03-12
 doi:
 draft: false
@@ -62,6 +62,10 @@ links:
 #   url: https://link.springer.com/chapter/10.1007/978-3-030-20351-1_46
 #   icon_pack: ai
 #   icon: springer
+- name: DHF1K Benchmark
+  url: https://mmcheng.net/videosal/
+  icon_pack: fas
+  icon: trophy
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
