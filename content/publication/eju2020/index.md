@@ -50,9 +50,13 @@ featured: true
 #   icon: twitter
 links:
 - name: PDF
-  url: https://www.thieme-connect.de/products/ejournals/abstract/10.1055/a-1074-0722
+  url: files/Drukker_Droste_et-al_EJU_2020.pdf
   icon_pack: fas
   icon: file-pdf
+- name: Thieme
+  url: https://www.thieme-connect.de/products/ejournals/abstract/10.1055/a-1074-0722
+  icon_pack: fas
+  icon: link
 - name: DOI
   url: http://dx.doi.org/10.1055/a-1074-0722
   icon_pack: ai
