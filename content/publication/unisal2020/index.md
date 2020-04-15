@@ -3,7 +3,7 @@
 
 title: "Unified Image and Video Saliency Modeling"
 # authors: [admin, yifan, harshita, pierre, lior, aris, alison]
-authors: ["**Richard Droste***", " <a href=\"https://jianbojiao.com/\"><u>Jianbo Jiao</u></a>", "J Alison Noble"]
+authors: ["**Richard Droste***", " <a href=\"https://jianbojiao.com/\"><u>Jianbo Jiao</u></a>*", "J Alison Noble"]
 date: 2020-03-12
 doi:
 draft: false
