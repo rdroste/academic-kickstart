@@ -23,14 +23,14 @@ bio: PhD Student in Medical Imaging at the University of Oxford
 interests:
 - Machine Learning & Deep Learning
 - Computer Vision
-- Medical Imaging (Ultrasund & MRI)
+- Medical Imaging (Ultrasound & MRI)
 
 education:
   courses:
   - course: "Currently: PhD in Engineering Science"
     institution: University of Oxford
     year: (graduating 2021)
-  - course: MSC in Mechanical Engineering
+  - course: MSc in Mechanical Engineering
     institution: ETH Zurich
     year: 2017
   - course: BSc in Mechanical Engineering
@@ -75,13 +75,21 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
+<!-- 
 Richard Droste graduated with distinction from ETH Zurich with B.Sc. (2014) and M.Sc.(2017) degrees in mechanical engineering.
 Before commencing his Ph.D. in engineering science at the University of Oxford in 2017, he worked as an intern at Siemens Healthcare, Germany, in 2015, at McKinsey & Company, Germany, in 2016, and as a research assistant at the Institute for Biomedical Engineering, ETH Zurich in 2017.
 
 Currently, Richard is working on the interdisciplinary PULSE (Perception Ultrasound by Learning Sonographic Experience) project.
 The aim of the project is to build machine learning systems that capture the expertise of sonographers in order to 
 enable the widespread deployment of fetal ultrasound screenings.
+ -->
+
+I am a final-year PhD student at the University of Oxford, striving to advance medical imaging through artificial intelligence.
+I work under the supervision of [Prof. Alison Noble](https://en.wikipedia.org/wiki/Alison_Noble) at the Institute of Biomedical Engineering and my research is part of the interdisciplinary [PULSE (Perception Ultrasound by Learning Sonographic Experience) project](https://eng.ox.ac.uk/pulse/), which aims to build machine learning systems that capture the expertise of sonographers in order to enable the widespread deployment of fetal ultrasound screenings.
+
+I completed my B.Sc and M.Sc. degrees in mechanical engineering at ETH Zurich (Swiss Federal Institute of Technology), where I graduated with distinction in 2017.
+Before commencing my PhD, I worked as an intern at Siemens Healthcare (2015) and McKinsey & Company (2016), and as a research assistant at the Institute for Biomedical Engineering, ETH Zurich (2017).
+During my studies and internships I worked on research and engineering projects ranging from life support systems for space flight to magnetic resonance imaging (MRI) for cardiac and neuro applications.
 
 <!---
 # develop assistive technologies that
