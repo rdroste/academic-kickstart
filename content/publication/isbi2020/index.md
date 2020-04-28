@@ -62,10 +62,15 @@ links:
 #   url: https://link.springer.com/chapter/10.1007/978-3-030-20351-1_46
 #   icon_pack: ai
 #   icon: springer
+- name: Presentation
+  icon_pack: fas
+  icon: youtube
+  url: https://www.youtube.com/watch?v=XnD2ym5Ywww
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
   url: publication/isbi2020/#bibtex
+
 
 url_pdf:
 url_code:
