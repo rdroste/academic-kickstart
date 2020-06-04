@@ -46,10 +46,10 @@ links:
 #   url: files/181_droste-et-al_ultrasound-visual-attention-modelling_v2-7.pdf
 #   icon_pack: fas
 #   icon: scroll
-# - name: DOI
-#   url: https://doi.org/10.1007/978-3-030-20351-1_46
-#   icon_pack: ai
-#   icon: doi
+- name: DOI
+  url: https://doi.org/10.1109/ISBI45749.2020.9098505
+  icon_pack: ai
+  icon: doi
 - name: arXiv
   url: https://arxiv.org/abs/2001.08188
   icon_pack: ai
@@ -58,10 +58,10 @@ links:
 #   url: https://ora.ox.ac.uk/objects/uuid:a27fe42b-3a94-4b0f-bc7d-2173c0348b6f
 #   icon_pack: ai
 #   icon: open-access
-# - name: Springer
-#   url: https://link.springer.com/chapter/10.1007/978-3-030-20351-1_46
-#   icon_pack: ai
-#   icon: springer
+- name: IEEE
+  url: https://ieeexplore.ieee.org/document/9098505
+  icon_pack: ai
+  icon: ieee
 - name: Presentation
   icon_pack: fas
   icon: youtube
