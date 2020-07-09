@@ -4,7 +4,7 @@
 title: "Unified Image and Video Saliency Modeling"
 # authors: [admin, yifan, harshita, pierre, lior, aris, alison]
 authors: ["**Richard Droste***", " <a href=\"https://jianbojiao.com/\"><u>Jianbo Jiao</u></a>*", "J Alison Noble"]
-date: 2020-03-12
+date: 2020-07-03
 doi:
 draft: false
 
@@ -116,17 +116,10 @@ Paper summary coming soon!
 ---
 # BibTex
 ```
-@ARTICLE{drostejiao2020,
+@InProceedings{drostejiao2020,
        author = {{Droste}, Richard and {Jiao}, Jianbo and {Noble}, J. Alison},
         title = "{Unified Image and Video Saliency Modeling}",
-      journal = {arXiv e-prints},
-     keywords = {Computer Science - Computer Vision and Pattern Recognition, Computer Science - Machine Learning},
-         year = 2020,
-        month = mar,
-          eid = {arXiv:2003.05477},
-        pages = {arXiv:2003.05477},
-archivePrefix = {arXiv},
-       eprint = {2003.05477},
- primaryClass = {cs.CV}
+    booktitle = {European Conference on Computer Vision},
+         year = {2020}
 }
 ```
