@@ -40,10 +40,10 @@ links:
   url: files/droste-et-al_probe-guidance_MICCAI-2020.pdf
   icon_pack: fas
   icon: file-pdf
-# - name: arXiv
-#   url: https://arxiv.org/abs/2003.05477
-#   icon_pack: ai
-#   icon: arxiv
+- name: arXiv
+  url: https://arxiv.org/abs/2007.04480
+  icon_pack: ai
+  icon: arxiv
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
