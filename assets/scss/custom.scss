@@ -1,0 +1,156 @@
+/*************************************************
+ *  Academic's Core
+ **************************************************/
+
+body {
+  font-family: inherit;
+  font-size: 0.9rem;
+  line-height: inherit;
+  color: inherit;
+  background-color: $sta-background;
+  margin-top: 60px; /* Offset body content by navbar height. */
+  padding-top: 0;
+  counter-reset: captions;
+}
+
+h1 {
+  font-size: 2.00rem;
+}
+
+
+/*************************************************
+ *  Navigation bar
+ **************************************************/
+
+.navbar {
+  height: 60px;
+  background: $sta-menu-primary;
+  box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11);
+  font-size: #{$sta-font-size-small}px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  font-size: 0.9rem;
+
+  // Remove Bootstrap's navbar v-padding and assign v-padding to logo separately to maximise logo size.
+  // Otherwise, Bootstrap's navbar v-padding causes issue with logo fitting within fixed 50px height bar in md-lg sizes.
+  padding: 0 1rem;
+
+  .nav-item {
+    // For z-index compatibility with logo on mobile layout, otherwise nav-item can't be clicked when logo present.
+    position: relative;
+  }
+  @include media-breakpoint-down(md) {
+    height: 50px;
+
+    .navbar-nav-scroll {
+      width: 100%;
+      overflow: hidden;
+
+      .navbar-nav {
+        overflow-x: auto;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+      }
+    }
+  }
+
+  .navbar-nav {
+    display: flex;
+
+    .nav-link {
+      color: rgba($sta-menu-text, .85);
+
+      &.active,
+      &:hover,
+      &:focus {
+        color: $sta-menu-text;
+      }
+
+      &.active {
+        font-weight: bold !important;
+        color: $sta-menu-text-active !important;
+      }
+    }
+  }
+
+  .dropdown-menu {
+    font-size: #{$sta-font-size-small}px;
+  }
+
+  // Note: dedicated `dropdown-item-active` class to prevent ScrollSpy removing `active` class from language chooser.
+  .dropdown-item.active,
+  .dropdown-item-active {
+    font-weight: bold;
+    color: $sta-menu-text-active !important;
+  }
+
+}
+
+
+
+/*************************************************
+ *  Page Builder: sections and widgets
+ **************************************************/
+
+@keyframes intro {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.home-section {
+  position: relative;  // Required for component positioning within section.
+  background-color: $sta-home-section-odd;
+  padding: 60px 0 40px 0;
+  animation: intro 0.3s both;
+  animation-delay: 0.15s;
+}
+
+
+
+/*************************************************
+ *  About widget
+ **************************************************/
+
+#bio {
+  font-size: 0.9rem;
+}
+
+ul.ul-interests li {
+  font-size: 0.9rem;
+}
+
+ul.ul-edu li .description p.institution {
+  font-size: 0.8rem;
+  color: rgba(0,0,0,0.6);
+}
+
+
+/*************************************************
+ *  Compact (stream) list view
+ **************************************************/
+
+.media.stream-item {
+  margin-bottom: 2rem;
+}
+
+.media.stream-item .article-title,
+.card-simple .article-title {
+  font-size: 1.0rem;
+}
+
+.media.stream-item .article-style,
+.card-simple .article-style {
+  margin-top: 2px;
+  font-size: 0.8rem;
+}
+
+.media.stream-item .stream-meta {
+  margin-top: 6px;
+}
