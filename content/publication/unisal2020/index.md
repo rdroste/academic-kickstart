@@ -24,7 +24,7 @@ publication_short: "ECCV 2020"
 abstract: "Visual saliency modeling for images and videos is treated as two independent tasks in recent computer vision literature. On the one hand, image saliency modeling is a well-studied problem and progress on benchmarks like SALICON and MIT300 is slowing. For video saliency prediction on the other hand, rapid gains have been achieved on the recent DHF1K benchmark through network architectures that are optimized for this task. Here, we take a step back and ask: Can image and video saliency modeling be approached via a unified model, with mutual benefit? We find that it is crucial to model the domain shift between image and video saliency data and between different video saliency datasets for effective joint modeling. We identify different sources of domain shift and address them through four novel domain adaptation techniques - Domain-Adaptive Priors, Domain-Adaptive Fusion, Domain-Adaptive Smoothing and Bypass-RNN - in addition to an improved formulation of learned Gaussian priors. We integrate these techniques into a simple and lightweight encoder-RNN-decoder-style network, UNISAL, and train the entire network simultaneously with image and video saliency data. We evaluate our method on the video saliency datasets DHF1K, Hollywood-2 and UCF-Sports, as well as the image saliency datasets SALICON and MIT300. With one set of parameters, our method achieves state-of-the-art performance on all video saliency datasets and is on par with the state-of-the-art for image saliency prediction, despite a 5 to 20-fold reduction in model size and the fastest runtime among all competing deep models. We provide retrospective analyses and ablation studies which demonstrate the importance of the domain shift modeling. The code is available at https://github.com/rdroste/unisal."
 
 # Summary. An optional shortened abstract.
-summary: "16th European Conference on Computer Vision (ECCV 2020). *RD and JJ contributed equally to this work. <span style=\"color: #c28422; font-weight:bold\">Spotlight Presentation</span>."
+summary: "16th European Conference on Computer Vision (ECCV 2020). *RD and JJ contributed equally to this work. <span style=\"color: #c28422; font-weight:bold\">Spotlight Presentation (Top 5%)</span>."
 tags: []
 categories: []
 featured: true
@@ -53,6 +53,10 @@ links:
   url: https://arxiv.org/abs/2003.05477
   icon_pack: ai
   icon: arxiv
+- name: ECVA
+  url: https://www.ecva.net/papers.php
+  icon_pack: ai
+  icon: open-access
 # - name: ORA
 #   url: https://ora.ox.ac.uk/objects/uuid:a27fe42b-3a94-4b0f-bc7d-2173c0348b6f
 #   icon_pack: ai
@@ -61,8 +65,20 @@ links:
 #   url: https://link.springer.com/chapter/10.1007/978-3-030-20351-1_46
 #   icon_pack: ai
 #   icon: springer
+- name: Short presentation
+  url: https://www.youtube.com/watch?v=k6AX_7Blu_s
+  icon_pack: fas
+  icon: video
+- name: Full presentation
+  url: https://www.youtube.com/watch?v=9pnxkgLrceo
+  icon_pack: fas
+  icon: video
 - name: DHF1K Benchmark
   url: https://mmcheng.net/videosal/
+  icon_pack: fas
+  icon: trophy
+- name: MIT300 Benchmark
+  url: https://saliency.tuebingen.ai/results.html
   icon_pack: fas
   icon: trophy
 - name: BibTeX

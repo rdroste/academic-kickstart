@@ -22,7 +22,7 @@ publication_short: "MICCAI 2020"
 abstract: "We present the first system that provides real-time probe movement guidance for acquiring standard planes in routine freehand obstetric ultrasound scanning. Such a system can contribute to the worldwide deployment of obstetric ultrasound scanning by lowering the required level of operator expertise. The system employs an artificial neural network that receives the ultrasound video signal and the motion signal of an inertial measurement unit (IMU) that is attached to the probe, and predicts a guidance signal. The network termed US-GuideNet predicts either the movement towards the standard plane position (goal prediction), or the next movement that an expert sonographer would perform (action prediction). While existing models for other ultrasound applications are trained with simulations or phantoms, we train our model with real-world ultrasound video and probe motion data from 464 routine clinical scans by 17 accredited sonographers. Evaluations for 3 standard plane types show that the model provides a useful guidance signal with an accuracy of 88.8% for goal prediction and 90.9% for action prediction."
 
 # Summary. An optional shortened abstract.
-summary: "23rd International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2020)."
+summary: "23rd International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2020). <span style=\"color: #c28422; font-weight:bold\">Oral Presentation</span>. <span style=\"color: #2a8a80; font-weight:bold\">Early Acceptance</span>"
 
 tags: []
 categories: []

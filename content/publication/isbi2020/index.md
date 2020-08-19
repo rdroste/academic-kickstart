@@ -64,7 +64,7 @@ links:
   icon: ieee
 - name: Presentation
   icon_pack: fas
-  icon: youtube
+  icon: video
   url: https://www.youtube.com/watch?v=XnD2ym5Ywww
 - name: BibTeX
   icon_pack: fas
