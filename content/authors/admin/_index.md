@@ -30,7 +30,7 @@ education:
   - course: "Currently: PhD in Engineering Science"
     institution: University of Oxford
     year: (graduating 2021)
-  - course: MSc in Mechanical Engineering
+  - course: MSc in Mechanical Engineering (Distinction)
     institution: ETH Zurich
     year: 2017
   - course: BSc in Mechanical Engineering
