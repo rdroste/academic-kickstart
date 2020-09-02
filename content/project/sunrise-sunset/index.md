@@ -3,10 +3,10 @@
 
 title: "Refraction-corrected solar angles in MatLab"
 summary: ""
-authors: []
+authors: [admin]
 tags: []
 categories: []
-date: 2020-01-04T00:01:00
+date: 2016-10-00T00:00:00
 
 draft: false
 

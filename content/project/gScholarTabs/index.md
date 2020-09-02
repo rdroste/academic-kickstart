@@ -1,14 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "LauzHack Hackathon 2016"
-summary: ""
+title: "Google Scholar Tab Fixer"
+summary: "Browser extension that automatically converts the entries in Google Scholar profiles into proper links that can be opened in new tabs."
 authors: [admin]
 tags: []
 categories: []
-date: 2016-09-01T00:00:00
-
-draft: false
+date: 2020-09-02T11:51:12+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -42,8 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-
-https://devpost.com/software/order-of-magnitude-cwjdx5
-
-
-{{< youtube Uiztak_799o >}}
+This browser extension automatically converts the entries in Google Scholar profiles into proper links that can be opened in new tabs.  
+[Homepage and Code](https://github.com/rdroste/gScholarTabs)  
+[Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/google-scholar-tab-fixer/)  
+[Chrome Extension](https://chrome.google.com/webstore/detail/google-scholar-tab-fixer/mgnbicheoadimihjpbhdoalhandaojod/related)  

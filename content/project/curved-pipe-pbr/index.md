@@ -3,10 +3,10 @@
 
 title: "Bachelor Thesis: Curved Pipe Photobioreactor"
 summary: ""
-authors: []
+authors: [admin]
 tags: []
 categories: []
-date: 2020-01-05T00:00:20
+date: 2014-06-01T00:00:00
 
 draft: false
 

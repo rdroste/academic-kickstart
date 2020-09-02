@@ -3,10 +3,10 @@
 
 title: "HackZurich Hackathon 2017"
 summary: ""
-authors: []
+authors: [admin]
 tags: []
 categories: []
-date: 2020-01-05T00:00:30
+date: 2017-09-01T00:00:00
 
 draft: false
 

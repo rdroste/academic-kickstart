@@ -3,10 +3,10 @@
 
 title: "Final year Bachelor project: Parabolic Flight Experiment"
 summary: ""
-authors: []
+authors: [admin]
 tags: []
 categories: []
-date: 2020-01-05T00:00:50
+date: 2014-07-01T00:00:00
 
 draft: false
 
