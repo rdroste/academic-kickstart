@@ -31,16 +31,11 @@ featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
+links:
 # - name: Follow
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
-links:
-- name: PDF
-  url: https://arxiv.org/pdf/2003.05477.pdf
-  icon_pack: fas
-  icon: file-pdf
 # - name: Poster
 #   url: files/181_droste-et-al_ultrasound-visual-attention-modelling_v2-7.pdf
 #   icon_pack: fas
@@ -53,6 +48,14 @@ links:
   url: https://arxiv.org/abs/2003.05477
   icon_pack: ai
   icon: arxiv
+- name: Code
+  url: https://github.com/rdroste/unisal
+  icon_pack: fab
+  icon: github
+- name: PDF
+  url: https://arxiv.org/pdf/2003.05477.pdf
+  icon_pack: fas
+  icon: file-pdf
 - name: ECVA
   url: https://www.ecva.net/papers.php
   icon_pack: ai
