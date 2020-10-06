@@ -36,7 +36,7 @@ We analyzed 272 third trimester growth scans with a total of 1409 measurements (
 During routine third‐trimester growth scans, expected value bias frequently occurs and significantly changes measurements of standard biometric planes."
 
 # Summary. An optional shortened abstract.
-summary: "Ultrasound in Obstetrics & Gynecology. *LD and RD contributed equally to this work."
+summary: "Ultrasound in Obstetrics & Gynecology (2019). *LD and RD contributed equally to this work."
 
 tags: []
 categories: []
