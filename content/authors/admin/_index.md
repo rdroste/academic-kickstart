@@ -48,18 +48,21 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=5sIUd1sAAAAJ&hl=en
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Richard_Droste
 - icon: github
   icon_pack: fab
   link: https://github.com/rdroste
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:droste.richard@gmail.com"
 - icon: linkedin
   icon_pack: fab
   link: "https://www.linkedin.com/in/richarddroste/"
+- icon: youtube
+  icon_pack: fab
+  link: "https://www.youtube.com/channel/UCHre40F4WfQCP75lIC_xtRg"
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Richard_Droste
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:droste.richard@gmail.com"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
