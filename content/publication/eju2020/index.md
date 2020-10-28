@@ -37,7 +37,7 @@ In this study, recommended bioeffect indices were adhered to in all routine scan
 # Summary. An optional shortened abstract.
 summary: "European Journal of Ultrasound (2020). *LD and RD contributed equally to this work. <span style=\"color: #2a8a80; font-weight:bold\">Selected as Editor's Choice</span>."
 
-tags: []
+tags: ["paper"]
 categories: []
 featured: true
 

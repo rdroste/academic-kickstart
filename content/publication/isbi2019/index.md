@@ -32,7 +32,7 @@ on unlabelled full-length video scans show high correlation
 # Summary. An optional shortened abstract.
 summary: "IEEE International Symposium on Biomedical Imaging (ISBI) 2019.  <span style=\"color: #c28422; font-weight:bold\">Oral presentation</span>."
 
-tags: []
+tags: ["paper"]
 categories: []
 featured: false
 

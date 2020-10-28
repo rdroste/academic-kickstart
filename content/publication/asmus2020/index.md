@@ -24,7 +24,7 @@ abstract: "In this paper, we consider differentiating operator skill during feta
 # Summary. An optional shortened abstract.
 summary: "MICCAI Workshop Advances in Simplifying Medical UltraSound (ASMUS 2020). <span style=\"color: #c28422; font-weight:bold\">Oral Presentation</span>."
 
-tags: []
+tags: ["paper"]
 categories: []
 featured: true
 

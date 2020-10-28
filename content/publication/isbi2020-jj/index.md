@@ -26,7 +26,7 @@ abstract: "Recent advances in deep learning have achieved promising performance 
 # Summary. An optional shortened abstract.
 summary: "IEEE International Symposium on Biomedical Imaging (ISBI) 2020."
 
-tags: []
+tags: ["paper"]
 categories: []
 featured: true
 

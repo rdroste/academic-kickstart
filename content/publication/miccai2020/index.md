@@ -24,7 +24,7 @@ abstract: "We present the first system that provides real-time probe movement gu
 # Summary. An optional shortened abstract.
 summary: "23rd International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2020). <span style=\"color: #c28422; font-weight:bold\">Oral Presentation</span>. <span style=\"color: #2a8a80; font-weight:bold\">Early Acceptance</span>."
 
-tags: []
+tags: ["paper"]
 categories: []
 featured: true
 

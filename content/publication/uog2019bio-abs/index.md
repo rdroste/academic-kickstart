@@ -36,7 +36,7 @@ In this study, eye tracking showed that operators rarely assessed safety indices
 # Summary. An optional shortened abstract.
 summary: "ISUOG World Congress 2019.  <span style=\"color: #c28422; font-weight:bold\">Oral presentation</span>. *LD and RD contributed equally to this work."
 
-tags: []
+tags: ["clinical_abstract"]
 categories: []
 featured: true
 

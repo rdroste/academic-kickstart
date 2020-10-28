@@ -25,7 +25,7 @@ abstract: "Visual saliency modeling for images and videos is treated as two inde
 
 # Summary. An optional shortened abstract.
 summary: "16th European Conference on Computer Vision (ECCV 2020). *RD and JJ contributed equally to this work. <span style=\"color: #c28422; font-weight:bold\">Spotlight Presentation (Top 5%)</span>."
-tags: []
+tags: ["paper"]
 categories: []
 featured: true
 

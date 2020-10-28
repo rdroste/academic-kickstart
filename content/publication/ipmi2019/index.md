@@ -35,7 +35,7 @@ baseline model for all but the last layer."
 # Summary. An optional shortened abstract.
 summary: "26th International conference on Information Processing in Medical Imaging (IPMI) 2019."
 
-tags: []
+tags: ["paper"]
 categories: []
 featured: true
 

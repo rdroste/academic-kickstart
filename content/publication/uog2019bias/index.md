@@ -38,7 +38,7 @@ During routine third‐trimester growth scans, expected value bias frequently oc
 # Summary. An optional shortened abstract.
 summary: "Ultrasound in Obstetrics & Gynecology (2019). *LD and RD contributed equally to this work."
 
-tags: []
+tags: ["paper"]
 categories: []
 featured: true
 

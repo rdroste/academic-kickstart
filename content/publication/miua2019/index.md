@@ -38,7 +38,7 @@ representative examples to explain the model’s superior performance."
 # Summary. An optional shortened abstract.
 summary: "23rd Conference on Medical Image Understanding and Analysis (MIUA) 2019. <span style=\"color: #c28422; font-weight:bold\">Oral presentation</span>. <span style=\"color: #2a8a80; font-weight:bold\">Best paper award</span>."
 
-tags: []
+tags: ["paper"]
 categories: []
 featured: true
 

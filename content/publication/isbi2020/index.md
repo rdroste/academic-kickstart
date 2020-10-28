@@ -26,7 +26,7 @@ abstract: "Anatomical landmarks are a crucial prerequisite for many medical imag
 # Summary. An optional shortened abstract.
 summary: "IEEE International Symposium on Biomedical Imaging (ISBI) 2020. <span style=\"color: #c28422; font-weight:bold\">Oral presentation</span>. <span style=\"color: #2a8a80; font-weight:bold\">Runner up for Best Paper Award</span>."
 
-tags: []
+tags: ["paper"]
 categories: []
 featured: true
 

@@ -24,7 +24,7 @@ abstract: "We present a novel multi-task neural network called Temporal SonoEyeN
 # Summary. An optional shortened abstract.
 summary: "Medical Image Analysis (2020)."
 
-tags: []
+tags: ["paper"]
 categories: []
 featured: true
 
