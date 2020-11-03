@@ -80,7 +80,7 @@ url_video:
 image:
   caption: "Figure 1"
   focal_point: "Left"
-  preview_only: false
+  preview_only: True
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -98,6 +98,8 @@ slides: ""
 ---
 
 *L. Drukker and R. Droste contributed equally to this work.
+
+![Figure 1](figure_1.jpg)
 
 ---
 # BibTex
