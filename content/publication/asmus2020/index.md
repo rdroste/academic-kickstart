@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Differentiating Operator Skill During Routine Fetal Ultrasound Scanning UsingProbe Motion Tracking"
+title: "Differentiating Operator Skill During Routine Fetal Ultrasound Scanning Using Probe Motion Tracking"
 authors: ["Yipei Wang", "**Richard Droste**", "Jianbo Jiao", "Harshita Sharma", "Lior Drukker", "Aris T. Papageorghiou", "J. Alison Noble"]
 date: 2020-06-31
 doi: ""
