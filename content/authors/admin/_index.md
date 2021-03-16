@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Medical Imaging
+role: Applied Scientist for ML/CV
 
 # Organizations/Affiliations
 organizations:
-- name: University of Oxford
+- name: Amazon
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Student in Medical Imaging at the University of Oxford
+bio: Applied Scientist for ML/CV at Amazon
 
 interests:
 - Machine Learning & Deep Learning
