@@ -87,8 +87,10 @@ The aim of the project is to build machine learning systems that capture the exp
 enable the widespread deployment of fetal ultrasound screenings.
  -->
 
-I am a final-year PhD student at the University of Oxford, striving to advance medical imaging through artificial intelligence.
-I work under the supervision of [Prof. Alison Noble](https://en.wikipedia.org/wiki/Alison_Noble) at the Institute of Biomedical Engineering and my research is part of the interdisciplinary [PULSE (Perception Ultrasound by Learning Sonographic Experience) project](https://eng.ox.ac.uk/pulse/), which aims to build machine learning systems that capture the expertise of sonographers in order to enable the widespread deployment of fetal ultrasound screenings.
+I've joined Amazon as an Applied Scientist for Machine Learning and Computer Vision in Berlin!
+
+For my PhD at the University of Oxford I strove to advance medical imaging through artificial intelligence under the supervision of [Prof. Alison Noble](https://en.wikipedia.org/wiki/Alison_Noble) at the Institute of Biomedical Engineering.
+I was part of the interdisciplinary [PULSE (Perception Ultrasound by Learning Sonographic Experience) project](https://eng.ox.ac.uk/pulse/), which aims to build machine learning systems that capture the expertise of sonographers in order to enable the widespread deployment of fetal ultrasound screenings.
 
 I completed my B.Sc and M.Sc. degrees in mechanical engineering at ETH Zurich (Swiss Federal Institute of Technology), where I graduated with distinction in 2017.
 Before commencing my PhD, I worked as an intern at Siemens Healthcare (2015) and McKinsey & Company (2016), and as a research assistant at the Institute for Biomedical Engineering, ETH Zurich (2017).
