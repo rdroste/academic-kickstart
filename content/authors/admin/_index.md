@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: "Currently: PhD in Engineering Science"
+  - course: PhD in Engineering Science"
     institution: University of Oxford
-    year: (graduating 2021)
+    year: 2021
   - course: MSc in Mechanical Engineering (Distinction)
     institution: ETH Zurich
     year: 2017
@@ -87,9 +87,9 @@ The aim of the project is to build machine learning systems that capture the exp
 enable the widespread deployment of fetal ultrasound screenings.
  -->
 
-I've joined Amazon as an Applied Scientist for Machine Learning and Computer Vision in Berlin!
+I'm an Applied Scientist for Machine Learning and Computer Vision at Amazon in Berlin.
 
-For my PhD at the University of Oxford I strove to advance medical imaging through artificial intelligence under the supervision of [Prof. Alison Noble](https://en.wikipedia.org/wiki/Alison_Noble) at the Institute of Biomedical Engineering.
+For my PhD at the University of Oxford I worked on advancing medical imaging through artificial intelligence under the supervision of [Prof. Alison Noble](https://en.wikipedia.org/wiki/Alison_Noble) at the Institute of Biomedical Engineering.
 I was part of the interdisciplinary [PULSE (Perception Ultrasound by Learning Sonographic Experience) project](https://eng.ox.ac.uk/pulse/), which aims to build machine learning systems that capture the expertise of sonographers in order to enable the widespread deployment of fetal ultrasound screenings.
 
 I completed my B.Sc and M.Sc. degrees in mechanical engineering at ETH Zurich (Swiss Federal Institute of Technology), where I graduated with distinction in 2017.
