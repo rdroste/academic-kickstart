@@ -1,10 +1,14 @@
 ---
 # Display name
-name: Richard Droste
+title: Richard Droste
 
-# Username (this should match the folder name)
-authors:
-- admin
+# Full name (for SEO)
+first_name: Richard
+last_name: Droste
+
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -12,54 +16,56 @@ superuser: true
 # Role/position
 role: Applied Scientist for ML/CV
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
-- name: Amazon
-  url: ""
+  - name: Amazon
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Applied Scientist for ML/CV at Amazon
 
-interests:
-- Machine Learning & Deep Learning
-- Computer Vision
-- Medical Imaging (Ultrasound & MRI)
+# # Interests to show in About widget
+# interests:
+#   - Machine Learning & Deep Learning
+#   - Computer Vision
+#   - Medical Imaging (Ultrasound & MRI)
 
+# Education to show in About widget
 education:
   courses:
-  - course: PhD in Engineering Science"
-    institution: University of Oxford
-    year: 2021
-  - course: MSc in Mechanical Engineering (Distinction)
-    institution: ETH Zurich
-    year: 2017
-  - course: BSc in Mechanical Engineering
-    institution: ETH Zurich
-    year: 2014
+    - course: PhD in Engineering Science"
+      institution: University of Oxford
+      year: 2021
+    - course: MSc in Mechanical Engineering (Distinction)
+      institution: ETH Zurich
+      year: 2017
+    - course: BSc in Mechanical Engineering
+      institution: ETH Zurich
+      year: 2014
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/richard_droste
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=5sIUd1sAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/rdroste
-- icon: linkedin
-  icon_pack: fab
-  link: "https://www.linkedin.com/in/richarddroste/"
-- icon: youtube
-  icon_pack: fab
-  link: "https://www.youtube.com/channel/UCHre40F4WfQCP75lIC_xtRg"
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Richard_Droste
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/richard_droste
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=5sIUd1sAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/rdroste
+  - icon: linkedin
+    icon_pack: fab
+    link: "https://www.linkedin.com/in/richarddroste/"
+  - icon: youtube
+    icon_pack: fab
+    link: "https://www.youtube.com/channel/UCHre40F4WfQCP75lIC_xtRg"
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Richard_Droste
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,13 +73,10 @@ social:
 #   link: files/richard_droste.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: ''
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 <!-- 
 Richard Droste graduated with distinction from ETH Zurich with B.Sc. (2014) and M.Sc.(2017) degrees in mechanical engineering.
